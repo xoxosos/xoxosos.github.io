@@ -105,7 +105,8 @@
 		-ms-transform: translate3d(0,0,0);
 		transform: translate3d(0,0,0);
 		/* Set your background with this */
-		background: #348cb2 url("http://7xic1p.com1.z0.glb.clouddn.com/bg.jpg") bottom left;
+		/*background: #348cb2 url("http://7xic1p.com1.z0.glb.clouddn.com/bg.jpg") bottom left;*/
+		 background: url(../img/2.jpg) no-repeat center/cover;
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
