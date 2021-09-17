@@ -1,2 +1,1 @@
-# xoxosos.github.io
-web site
+###一生平安
