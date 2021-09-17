@@ -105,6 +105,7 @@
 		transform: translate3d(0,0,0);
 		/* Set your background with this */
 		background: #348cb2 url("http://7xic1p.com1.z0.glb.clouddn.com/bg.jpg") bottom left;
+		
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
@@ -121,6 +122,8 @@
 	#bg {
 		background-size: 2250px auto;
 		width: 6750px;
+				background-image:url("https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic3.zhimg.com%2Fv2-84b791145d260767afc24c3c732bfba2_r.jpg%3Fsource%3D1940ef5c&refer=http%3A%2F%2Fpic3.zhimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1634458479&t=154588eafed3e5d5dd8a25928805f3ca");
+
 	}
 
 /* Main */
@@ -132,7 +135,7 @@
 		text-align: center;
 		top: 0;
 		width: 100%;
-		background-image:url("../images/2.jpg");
+		background-image:url("https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic3.zhimg.com%2Fv2-84b791145d260767afc24c3c732bfba2_r.jpg%3Fsource%3D1940ef5c&refer=http%3A%2F%2Fpic3.zhimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1634458479&t=154588eafed3e5d5dd8a25928805f3ca");
 		background-size:cover;
 		
 		
