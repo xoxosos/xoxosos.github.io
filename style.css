@@ -19,7 +19,6 @@
 	body {
 		background: white;
 		overflow: hidden;
-                               
 	}
 
 		body.loading * {
@@ -105,8 +104,7 @@
 		-ms-transform: translate3d(0,0,0);
 		transform: translate3d(0,0,0);
 		/* Set your background with this */
-		/*background: #348cb2 url("http://7xic1p.com1.z0.glb.clouddn.com/bg.jpg") bottom left;*/
-		 background: url(../img/2.jpg) no-repeat center/cover;
+		background: #348cb2 url("http://7xic1p.com1.z0.glb.clouddn.com/bg.jpg") bottom left;
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
@@ -134,6 +132,9 @@
 		text-align: center;
 		top: 0;
 		width: 100%;
+		background-image: url("..images/2.jpg");
+		background-repeat: no-repeat;
+		background-size: cover;
 	}
 
 		#main:before {
