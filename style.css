@@ -132,9 +132,7 @@
 		text-align: center;
 		top: 0;
 		width: 100%;
-		background-image: url("..images/2.jpg");
-		background-repeat: no-repeat;
-		background-size: cover;
+		
 	}
 
 		#main:before {
